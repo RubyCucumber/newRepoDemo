@@ -24,7 +24,7 @@ public class XmlTest {
     public static void main(String[] args) {
  
         try {
-            FileInputStream file = new FileInputStream(new File("d://MACYS/files/employee.xml"));
+            FileInputStream file = new FileInputStream(new File("d://employee.xml"));
                  
             DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
              

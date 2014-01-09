@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+       <Keys>
+              <Key>Name</Key>
+              <value>Hema</value>
+       </Keys>
+       <Keys>
+              <Key>EmpId</Key>
+              <value>220</value>
+       </Keys>
+       <Keys>
+              <Key>Company</Key>
+              <value>GSPANN</value>
+       </Keys>
+       <Keys>
+              <Key>ABC</Key>
+              <value>XYZ</value>
+       </Keys>
+</stocks>

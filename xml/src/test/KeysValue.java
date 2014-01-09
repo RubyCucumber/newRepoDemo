@@ -22,7 +22,7 @@ public class KeysValue {
     public static void main(String[] args) {
  
         try {
-            FileInputStream file = new FileInputStream(new File("d://MACYS/files/Keys.xml"));
+            FileInputStream file = new FileInputStream(new File("d://Keys.xml"));
                  
             DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
              
